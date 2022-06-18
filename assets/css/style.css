@@ -1,0 +1,8 @@
+@import './template/components/nav.css';
+@import './template/components/footer.css';
+@import './template/parts/banner.css';
+@import './template/parts/about.css';
+@import './template/parts/who-are.css';
+@import './template/parts/revenues.css';
+@import './normalize.css';
+@import './reset.css'

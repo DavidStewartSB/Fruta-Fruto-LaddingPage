@@ -1,0 +1,5 @@
+BEM(Block Element Modifier)
+
+block
+bloco__elemento
+bloco--modificador
